@@ -47,5 +47,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     GitHubTestTheme {
         Greeting("Android")
+        Greeting("Edit 2")
     }
 }
