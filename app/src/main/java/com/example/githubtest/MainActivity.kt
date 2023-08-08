@@ -48,5 +48,6 @@ fun GreetingPreview() {
     GitHubTestTheme {
         Greeting("Android")
         Greeting("Edit 2")
+        Greeting("Edit new day 1")
     }
 }
