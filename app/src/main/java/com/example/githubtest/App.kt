@@ -5,4 +5,5 @@ class App {
 
     val mainNewDay1 = 0
     val mainNewDay2 = 0
+    val editNewDay3 = 0
 }
