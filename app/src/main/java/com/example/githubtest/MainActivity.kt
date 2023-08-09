@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Conflict main 1")
 
                     println("main1")
+                    println("main2")
                 }
             }
         }
