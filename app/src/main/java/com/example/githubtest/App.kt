@@ -9,4 +9,7 @@ class App {
     val conflictMain2 = 2000
 
     val main1 = 90
+
+
+    companion object
 }
