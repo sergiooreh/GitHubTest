@@ -6,5 +6,5 @@ class App {
     val mainNewDay1 = 1000
     val mainNewDay2 = 0
     val editNewDay3 = 0
-    val conflictMain2 = 1
+    val conflictMain2 = 2000
 }
