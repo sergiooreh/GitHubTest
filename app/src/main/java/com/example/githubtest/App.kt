@@ -7,4 +7,6 @@ class App {
     val mainNewDay2 = 0
     val editNewDay3 = 0
     val conflictMain2 = 2000
+
+    val main1 = 90
 }
