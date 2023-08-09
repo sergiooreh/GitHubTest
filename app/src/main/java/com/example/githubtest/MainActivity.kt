@@ -25,6 +25,8 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     Greeting("Edit 1")
                     Greeting("Conflict main 1")
+
+                    println("main1")
                 }
             }
         }
