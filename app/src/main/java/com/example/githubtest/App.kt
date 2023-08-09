@@ -10,6 +10,7 @@ class App {
 
     val main1 = 90
     val main11111 = 90
+    val main222222 = 90
 
 
     companion object
