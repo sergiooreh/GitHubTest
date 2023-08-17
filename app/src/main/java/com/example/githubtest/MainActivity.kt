@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
 
                     println("main1")
                     println("main2")
+                    println("main2")
                 }
             }
         }
